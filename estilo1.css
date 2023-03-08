@@ -1,0 +1,45 @@
+*{
+    background-color:white;
+    text-align: center;
+}
+
+h1{
+    color: black;
+}
+
+p{
+    color: black;
+}
+
+.cabo>img{
+    width: 300px;
+    height: 300px;
+    border-radius:150px; 
+}
+
+.logos>img{
+    width: 100px;
+    height: 100px;
+    border-radius: 200;
+}
+.images{
+    display: flex;
+    justify-content:center;
+}
+
+.images>img{
+    width: 100px;
+    height: 100px;
+    border-radius: 200;
+}
+
+.images2{
+    display: flex;
+    justify-content:center;
+}
+
+.images2>img{
+    width: 100px;
+    height: 100px;
+    border-radius: 200;
+}
